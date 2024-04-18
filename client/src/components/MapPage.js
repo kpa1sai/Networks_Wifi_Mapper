@@ -102,7 +102,7 @@ function MapPage() {
 
   return (
     <LoadScript
-      googleMapsApiKey='AIzaSyAf3mPgz4fxt39EwD5LnKIqgg96QGx8UUw'
+      googleMapsApiKey='API Key'
       libraries={libraries}
       onLoad={() => setIsMapLoaded(true)}
     >
